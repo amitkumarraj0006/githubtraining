@@ -3,3 +3,6 @@
  Type option
  Colours
  vibrant
+
+dark mode
+video called
